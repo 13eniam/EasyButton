@@ -1,7 +1,11 @@
 define (require) ->
-  console.log "Put your test code in here..."
+	
+	console.log "Put your test code in here..."
+	Marionette = require 'marionette'
 
-  UnApp =
-    a:3
-    b:4
-    c:5
+	EasyButtonApp = new Marionette.Application()
+	
+	#UnApp =
+	#	a:3
+	#	b:4
+	#	c:5

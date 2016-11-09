@@ -20,7 +20,8 @@
     "tests"
   ],
   "dependencies": {
-    "requirejs": "^2.2.0",
-    "jquery": "^3.0.0"
+    "requirejs": "2.1.x",
+    "marionette": "1.8.x",
+    "jquery": "1.9.x"
   }
 }
