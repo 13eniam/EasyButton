@@ -1,5 +1,6 @@
 # Git Ignore file for testapp
 
 .DS_store
+public/
 node_modules/
 assets/javascript/vendor/
